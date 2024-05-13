@@ -12,7 +12,7 @@ _this is italic text_
 - jony
 - rahim
 
-![jakaria photo](images/jakaria.jpg)
+![jakaria photo](images/jakaria.png)
 
 ☑️☑️☑️☑️🛍️🛍️🛍️🛍️🛍️
 
