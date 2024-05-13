@@ -19,3 +19,4 @@ _this is italic text_
 |name|age|
 |----|---|
 |jakaria| 27|
+|Boltu|23|
